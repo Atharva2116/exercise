@@ -1,3 +1,3 @@
 # exercise
 This is my fiisrt Git repository
-Author-Atherva Dandgawhal
+Author-Atharva Dandgawhal
